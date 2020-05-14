@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firestore-grafica-59a2d": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-59a2d"
+        ]
+      }
+    }
+  }
+}
